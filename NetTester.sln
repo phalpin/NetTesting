@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.21730.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetTester", "NetTester\NetTester.csproj", "{5EED5B6B-1ECC-4B20-B3CE-BCD7744C6F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetTesting", "NetTesting\NetTesting.csproj", "{36371F38-A636-40B5-BA83-E3D33DBD5FF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetTesting.NoThreads", "NetTesting.NoThreads\NetTesting.NoThreads.csproj", "{4EF30C1B-4010-4C1E-8576-766DF4C3359F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetTesting.Threads", "NetTesting.Threads\NetTesting.Threads.csproj", "{5F67760E-BEF1-4116-A3DB-CB1DD868F3F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EED5B6B-1ECC-4B20-B3CE-BCD7744C6F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EED5B6B-1ECC-4B20-B3CE-BCD7744C6F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EED5B6B-1ECC-4B20-B3CE-BCD7744C6F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EED5B6B-1ECC-4B20-B3CE-BCD7744C6F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36371F38-A636-40B5-BA83-E3D33DBD5FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36371F38-A636-40B5-BA83-E3D33DBD5FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36371F38-A636-40B5-BA83-E3D33DBD5FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36371F38-A636-40B5-BA83-E3D33DBD5FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF30C1B-4010-4C1E-8576-766DF4C3359F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF30C1B-4010-4C1E-8576-766DF4C3359F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF30C1B-4010-4C1E-8576-766DF4C3359F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF30C1B-4010-4C1E-8576-766DF4C3359F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F67760E-BEF1-4116-A3DB-CB1DD868F3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F67760E-BEF1-4116-A3DB-CB1DD868F3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F67760E-BEF1-4116-A3DB-CB1DD868F3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F67760E-BEF1-4116-A3DB-CB1DD868F3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
